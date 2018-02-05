@@ -1,6 +1,8 @@
 Brain Imaging Analysis Kit
 ==========================
 
+Mike's bad change!
+
 .. image:: https://travis-ci.org/brainiak/brainiak.svg?branch=master
     :target: https://travis-ci.org/brainiak/brainiak
 
