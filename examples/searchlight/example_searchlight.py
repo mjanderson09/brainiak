@@ -28,13 +28,13 @@ rank = comm.rank
 size = comm.size
 
 # Dataset size parameters
-dim = 40
-ntr = 400
-maskrad = 15
+dim = 3
+ntr = 24
+maskrad = 10
 
 # Predictive point parameters
-pt = (23,23,23)
-kernel_dim = 5
+pt = (1,1,1)
+kernel_dim = 1
 weight = 1
 
 # Generate data
